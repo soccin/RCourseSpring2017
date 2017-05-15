@@ -2,6 +2,10 @@
 
 ## URLs:
 
+### Course data:
+
+* http://cbio.mskcc.org/~socci/RCourse2017
+
 ### Basic/Beginner
 
 * https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf Very short and compact. Must read unless have solid intermediate skills.
